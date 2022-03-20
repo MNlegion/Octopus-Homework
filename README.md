@@ -21,3 +21,7 @@ First commit to cloned repo
 #styles.css file changes:
 # 1. insert commentary throughout the style.css for ease of navigation and readability
 # 2. consolidated existing reduntant class structure
+
+[Deployed Link to Horiseon Application](https://mnlegion.github.io/Octopus-Homework/)
+
+[Deployed application screenshot](./assets/images/Screenshot%202022-03-19%20212238.png)
